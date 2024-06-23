@@ -1,6 +1,6 @@
 # INAV Configurator dev builds
 
-This repo hosts releases with pre-release INAV Configurator files.
+This repository hosts pre-release builds of INAV Configurator.
 
 For issues, use the iNavFlight/inav-configurator repository.
 
