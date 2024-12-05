@@ -1,0 +1,9 @@
+*.hex
+*.zip
+*~
+*.bak
+*.swp
+*.msi
+*.dmg
+*.rpm
+*.deb
